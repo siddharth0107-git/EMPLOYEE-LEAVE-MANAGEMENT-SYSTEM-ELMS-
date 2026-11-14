@@ -10,6 +10,14 @@ The project consists of four ABAP programs. The process concludes by generating 
 
 ### 1. Employee Management and Leave Management
 
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/b2f0c3c8-84d5-4079-aead-6f0711ce7068" />
+Employee Details Report
+
+
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/a97c5692-9332-40de-b8fc-2ea91f643d89" />
+Employee Leave Report
+
+
 This program displays employee and leave information through reports.
 
 **Employee Report output:**
@@ -29,6 +37,8 @@ The selection screen provides filters and radio buttons to choose between the Em
 
 ### 2. Employee CRUD Operations
 
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/cd256bfe-d6fb-463e-8697-1fcd4a80b602" />
+
 This program is used to maintain employee records.
 
 It supports four operations:
@@ -44,6 +54,8 @@ The output includes employee details and an update confirmation message.
 
 ### 3. Employee Leave Request
 
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/473bc647-3bed-4dcc-9a3b-1089589996a6" />
+
 This program allows an employee's leave request to be entered.
 
 The request screen contains:
@@ -57,6 +69,8 @@ After entering these details, the leave request can be reviewed by the manager t
 
 ### 4. Leave Approval Program
 
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/21f75bf2-57c4-4a2a-9dcf-78f29c16117f" />
+
 This program is used by the manager to review submitted leave requests.
 
 The manager can:
@@ -68,6 +82,8 @@ The manager can:
 The updated leave status can then be viewed in the leave report.
 
 ### 5. Final Output – Leave Approval Letter
+
+<img width="1050" height="591" alt="image" src="https://github.com/user-attachments/assets/702858d2-a0e1-43bd-88a9-4e56c831e7f4" />
 
 After the manager records the decision, the application generates a formatted Leave Approval Letter.
 
